@@ -1,0 +1,24 @@
+.container{
+    background-color: darkgrey;
+    padding: 20px 50px;
+    border-radius: 10px; 
+}
+#Credentials{
+    margin: 20px;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: rgb(252, 252, 252);
+}
+
+button{
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(216, 211, 211);
+}
+#result{
+    font-family: sans-serif;
+    font-size: 30px;
+}
