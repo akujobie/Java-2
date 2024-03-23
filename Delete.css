@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(34, 33, 33);
+    color: lavender;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 20px;
+}
+#studentList{
+    font-size: 25px;
+    margin-left: 20px;
+}
+button{
+    margin-left: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #1480f3;
+    color: #fff;
+}
+button:hover{
+    background-color: #0056b3;
+}
+#Credentials{
+    margin: 20px;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: cadetblue;
+}
