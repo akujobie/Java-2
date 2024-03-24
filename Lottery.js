@@ -11,8 +11,10 @@ function getCredentials() {
   if (username && passcode) {
       Credentials.innerHTML = (`Username: ${username}\nPasscode: ${passcode}`);
       document.getElementById('letsplay').style.display = 'block';
+  } else {
+    alert ('Please enter both username and passcode to continue!')
   }
-}
+};
 // Function to generate a random number between two integers
 function generateRandomNumber(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
