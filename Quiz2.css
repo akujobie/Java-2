@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCydJrpfJ0RbESQPBwtiUC9C8cHzF2_CG-Eak66r6fPUDOo9YiGKl18_Seb-Pl55Vw0L8&usqp=CAU);
+    background-size: 45% 70%;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #Credentials{
+    font-size: 20px;
+  }
+  button{
+    border-radius: 10px;
+  }
+  button:hover{
+    background-color:#f3c268
+  }
+  .quiz-container {
+    margin-top: 100px;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+ 
+  #result {
+    margin-top: 100px;
+    height: 20vh;
+  }
+
+  #abo{
+    font-size: 30px;
+    font-weight: 800;
+    background-color: rgba(248, 248, 248, 0.76);
+    color: rgb(3, 110, 21);
+    margin: 10px;
+    padding: 10px;
+  }
